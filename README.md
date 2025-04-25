@@ -1,54 +1,48 @@
-# Welcome to PixelSummit 🚀
+# Welcome to PixelSummit
 
+Developer focused on functional, elegant solutions.
 
-I'm the person behind PixelSummit 🦹
+## What I Do
+* Create websites that work flawlessly
+* Write code that solves real problems
+* Build intuitive, sensible digital experiences
+* Balance simplicity with functionality
+* Focus on results rather than buzzwords
 
-## What I do ✨
-* Listen
-* Build websites that work
-* Write code that solves problems
-* Build things that make sense
-* Keep it simple, functional, yet beautiful
-* Skip the buzzwords
-
-## My approach 💡
+## My Approach 💡
 I believe in:
 * Clear communication over endless meetings
-* Working solutions over trendy tech
-* Getting things done over talking about getting things done
-* Honest timelines over unrealistic promises
-* Pretty new technologies AND old-school practices
+* Working solutions over trendy technologies
+* Delivery over discussion
+* Realistic timelines over unrealistic promises
+* Embracing both proven practices and valuable innovations
 
-## Tech I use 💻
+## Tech Stack 💻
 * React, JavaScript, Python, HTML, CSS, Next.js
-* Three.js for fun 3D stuff
-* Whatever else gets the job done efficiently
+* Three.js for interactive 3D experiences and Anime.js for engaging animations
+* Whatever tools best suit the project requirements
 
-## Current projects 💥
-* Building interactive 3D web experiences
-* Exploring TypeScript
-* Always learning, but without the "passionate" speeches about it
+## Current Focus
+* Building immersive 3D web experiences
+* Expanding TypeScript expertise
+* Continuous learning with practical application
 
-## Want to work together? 🏃‍♂️
-* Check out my work at [PixelSummit.dev](https://pixelsummit.dev)
-* No passion speeches, just solid development work
+## Want to Work Together?
+* Portfolio: [PixelSummit.dev](https://pixelsummit.dev)
+* Approach: No fluff, just solid development work that delivers
 
-## Who am I? 👻
-* I love cats 🐱
-* Gamer 🎮
-* I like to travel - especially to mountains 🏔️
-* Peace and quiet is my favorite place to be 🌳
-* Solving problems over writing motivational LinkedIn posts 💻
+## Beyond Coding 👤
+* Cat enthusiast 🐱
+* Gamer in my downtime 🎮
+* Mountain traveler whenever possible 🏔️
+* Seeker of peace and quiet 🌳
+* Problem solver by nature
 
-## Find me 🔍
-* Probably coding
-* Probably gaming
-* Probably walking
-* Most likely feeding some cats 🐱
-* Definitely not writing about my "passionate journey in tech" 😉
+## Where To Find Me
+* Most likely: coding, gaming, exploring outdoors, or tending to cats
+* Definitely not: writing motivational tech posts on LinkedIn
 
-## Want to Chat? 📫 
-- Drop me a line at: [hello@pixelsummit.dev](mailto:hello@pixelsummit.dev)  
+## Contact 📫
+Email: [hello@pixelsummit.dev](mailto:hello@pixelsummit.dev)
 
-
- 🎉 Thanks for stopping by!  
+Thanks for stopping by!
