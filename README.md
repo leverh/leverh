@@ -29,6 +29,7 @@ I believe in:
 
 ## Want to Work Together?
 * Portfolio: [PixelSummit.dev](https://pixelsummit.dev)
+* Freelance: [PixelSummit.org](https://pixelsummit.org/)
 * Approach: No fluff, just solid development work that delivers
 
 ## Beyond Coding 👤
@@ -43,6 +44,7 @@ I believe in:
 * Definitely not: writing motivational tech posts on LinkedIn
 
 ## Contact 📫
-Email: [hello@pixelsummit.dev](mailto:hello@pixelsummit.dev)
+Email: [contact@pixelsummit.org](mailto:contact@pixelsummit.org)
+Gmail: [leverh@gmail.com](mailto:leverh@gmail.com)
 
 Thanks for stopping by!
