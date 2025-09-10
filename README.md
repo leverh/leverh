@@ -44,7 +44,7 @@ I believe in:
 * Definitely not: writing motivational tech posts on LinkedIn
 
 ## Contact 📫
-Email: [contact@pixelsummit.org](mailto:contact@pixelsummit.org)
-Gmail: [leverh@gmail.com](mailto:leverh@gmail.com)
+* Email: [contact@pixelsummit.org](mailto:contact@pixelsummit.org)
+* Gmail: [leverh@gmail.com](mailto:leverh@gmail.com)
 
 Thanks for stopping by!
